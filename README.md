@@ -1,2 +1,2 @@
 # Pomodoro-Project
-tkinter project to build a custom pomodoro timer with tkinter gui
+silly little project from Udemy's "100 Days of Python" class
